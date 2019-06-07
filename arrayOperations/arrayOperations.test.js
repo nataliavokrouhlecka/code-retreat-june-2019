@@ -1,4 +1,4 @@
-const { isEmpty, map, reduce } = require('./array-ops')
+const { isEmpty, map, reduce } = require('./arrayOperations')
 
 describe('reduce', () => {
   it('should just return accumulator for an empty array', () => {
