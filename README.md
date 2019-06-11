@@ -26,6 +26,14 @@ Rules:
 * Removes up to `n` elements from the start of the array (returns an empty array if array.length <= n)
 * Takes up to `n` elements from start of the array (returns an array if array.length <= n)
 
+## Online environment:
+### JavaScript
+* Game of Life: https://repl.it/@msdcoderetreat/JS-GameOfLife
+* Array Operations: https://repl.it/@msdcoderetreat/JS-arrayOperations
+### Java
+* Game of Life: https://repl.it/@msdcoderetreat/Game-of-Life
+* Array Operations: https://repl.it/@msdcoderetreat/Array-Operations
+
 ## JavaScript - how to run Jest unit test locally?
 1. You need to have Node installed in order to use npm (node package manager).
 2. Clone repository and navigate to the JS/arrayOperations or JS/gameOfLife folder.
