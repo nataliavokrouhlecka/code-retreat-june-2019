@@ -33,6 +33,9 @@ Rules:
 ### Java
 * Game of Life: https://repl.it/@msdcoderetreat/Game-of-Life
 * Array Operations: https://repl.it/@msdcoderetreat/Array-Operations
+### Swift
+* Game of Life: https://repl.it/@vsejed/CodeRetreatGameOfLife
+* Array Operations: https://repl.it/@vsejed/CodeRetreatArrays
 
 ## JavaScript - how to run Jest unit test locally?
 1. You need to have Node installed in order to use npm (node package manager).

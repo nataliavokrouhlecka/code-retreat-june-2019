@@ -1,0 +1,5 @@
+import Foundation
+
+runTests()
+
+// Code:
