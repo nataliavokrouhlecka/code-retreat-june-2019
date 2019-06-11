@@ -18,4 +18,4 @@ Boilerplate code to get you started with the code retreat in Java.
 - Implement the provided tests
 - Looks for additional test cases on [Game of life wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-Updated version based of code from [Jan Zyka](https://github.com/janzyka/coderetreat).
+Updated version based on code from [Jan Zyka](https://github.com/janzyka/coderetreat).
